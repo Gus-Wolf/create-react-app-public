@@ -3,9 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+    <div className="wrapper" id="wrapper">
+      <header className="card">
+        <img src="https://lumiere-a.akamaihd.net/v1/images/open-uri20150608-27674-17ohmzf_d340a6bd.jpeg?width=1136" className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
